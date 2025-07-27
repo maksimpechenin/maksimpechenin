@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maksimpechenin
-- 📫 My telegram -- [@maksimpechenin](https://t.me/maksimpechenin) 
+- 📫 My telegram \- [@maksimpechenin](https://t.me/maksimpechenin) 
 
 <!---
 maksimpechenin/maksimpechenin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
