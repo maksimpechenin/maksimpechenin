@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @maksimpechenin
-- 👀 I’m interested in bioinformatics projects
-- 🌱 I’m currently studying on Mechanics and Mathematics faculty of Lomonosov Moscow State University
-- 💞️ I’m looking for collaboration on prety anything you think I can help you with
 - 📫 How to reach me [@maksimpechenin](https://t.me/maksimpechenin) 
 
 <!---
